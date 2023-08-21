@@ -1,0 +1,31 @@
+Privilege to create for cvg database in XAMPP:
+
+username: cgv
+hostname: localhost:3306
+password: Design@sdl123
+
+i.e
+define('DB_HOST', "localhost:3306");
+define('DB_USER', "cgv");
+define('DB_PASSWORD', "Design@sdl123");
+define('DB_NAME', "cgv")
+
+
+
+
+
+
+Credentials for Login to the Dashboard:
+
+
+Admin Account:
+
+
+username: admin@gmail.com
+password: admin
+
+
+Computer Science (Department login):
+
+username: comp_science_admin@gmail.com
+password: 1234
